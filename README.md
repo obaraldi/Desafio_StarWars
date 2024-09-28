@@ -26,7 +26,7 @@ Configurar uma conexão local com o servidor utilizando as seguintes informaçõ
     user: 'root',
     password: '123',  
 
-*OBS.: ou pode alterar essas informações no arquivo server.js
+*OBS.: Caso queira pode alterar essas informações no arquivo server.js conforme conexão do servidor local
 
 Verificar se o servidor está conectado e abrir um navegador e entrar no endereço http://localhost:3000
 
