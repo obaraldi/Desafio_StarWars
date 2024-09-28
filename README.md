@@ -10,11 +10,11 @@
 
 Para testar a aplicação é necessário ter instalado um servidor mysql e Node.js.
 
-No terminal iniciar o Node.js
+No terminal iniciar o Node.js:
 
 	npm start
 
-também é necessário instalar algumas dependências através dos comandos
+Instalar algumas dependências através dos comandos:
 
 	npm init -y	
 	npm install express mysql2 cors axios
