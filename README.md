@@ -37,3 +37,5 @@ Será exibida a interface com uma barra de busca onde, ao digitar parte do nome 
 Só é possível personagem como favorito apenas uma vez. 
 Ao selecionar o personagem como favorito ele aparece em uma lista logo abaixo e ao lado do nome há um botão de exclusão, caso queira excluí-lo da lista de favoritos.
 
+Projeto foi desenvolvido por Rafael Elias Moreira
+
